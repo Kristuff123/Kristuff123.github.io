@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/KOD/Kristuff123.github.io",
-      "program": "d:/KOD/Kristuff123.github.io/build/Debug/outDebug",
+      "cwd": "d:/KOD/Kristuff123.github.io/images",
+      "program": "d:/KOD/Kristuff123.github.io/images/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
